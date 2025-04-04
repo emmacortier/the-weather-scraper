@@ -1,4 +1,3 @@
-https://www.wunderground.com/dashboard/pws/IFILADEL7
-https://www.wunderground.com/dashboard/pws/IFILAD6
-https://www.wunderground.com/dashboard/pws/I19FILAD2
-https://www.wunderground.com/dashboard/pws/IBOQUERO2
+https://www.wunderground.com/dashboard/pws/IGHENT26/graph/2024-11-4/2024-11-4/monthly
+https://www.wunderground.com/dashboard/pws/IGHENT26/graph/2024-12-31/2024-12-31/monthly
+https://www.wunderground.com/dashboard/pws/IGHENT26/graph/2025-01-31/2025-01-31/monthly
